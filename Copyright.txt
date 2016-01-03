@@ -1,0 +1,7 @@
+Copyright of this project and the code is owned and reserved
+by the author Wenchong Chen.
+
+Do not use this project without the author's authorisation.
+
+If you need to use this project, please contact the author by
+email: wenchong.chen@outlook.com.
