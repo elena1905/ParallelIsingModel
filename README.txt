@@ -2,8 +2,9 @@
 # README.TXT
 #
 # @Author: Wenchong Chen
-# Copyright of this project and the code reserved by the author
-# Wenchong Chen.
+#
+# Copyright of this project and the code is owned and reserved by
+# the author Wenchong Chen.
 #
 # Instructions for MSc Project
 #==================================================================
